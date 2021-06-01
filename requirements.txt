@@ -52,7 +52,7 @@ soupsieve==1.7
 sqlparse==0.2.4
 tqdm==4.29.1
 Twisted==18.9.0
-urllib3==1.24.1
+urllib3==1.26.5
 w3lib==1.19.0
 whitenoise==4.1
 xvfbwrapper==0.2.9
